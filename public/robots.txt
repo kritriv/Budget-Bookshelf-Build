@@ -1,0 +1,6 @@
+user-Agent: *
+Allow: /sitemap/
+Allow: /*
+Allow: /
+
+Sitemap: https://tarparking.com/sitemap.xml
